@@ -19,7 +19,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # ══════════════════════════════════════════════════════════
 # SETTINGS (Ekhane tomar token boshao)
 # ══════════════════════════════════════════════════════════
-BOT_TOKEN = "7021875087:AAFO1IyAN7uuc0sdCHIgLe-SIdL0fBsleM0" 
+BOT_TOKEN = "6983447601:AAH2UIsDejULIvKdmBmg1HGgzXGz26_QOTM" 
 ADMIN_ID = "6408202140" # Tomar Telegram ID
 
 bot = telebot.TeleBot(BOT_TOKEN)
